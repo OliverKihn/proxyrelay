@@ -1,5 +1,3 @@
-// node "C:\Entwicklung\interne Projekte\DevContainersTest\.devcontainer\proxy-relay.js"
-
 const net = require('node:net');
 const readline = require('node:readline');
 
